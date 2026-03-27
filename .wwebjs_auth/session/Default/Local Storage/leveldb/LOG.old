@@ -1,0 +1,33 @@
+2026/03/23-11:47:08.997 1bd9a0 Reusing MANIFEST C:\Users\leonardo.jesus\Documents\projetos\botHoras\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/23-11:47:09.001 1bd9a0 Recovering log #3
+2026/03/23-11:47:09.004 1bd9a0 Reusing old log C:\Users\leonardo.jesus\Documents\projetos\botHoras\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2026/03/23-11:52:09.620 1beda0 Level-0 table #5: started
+2026/03/23-11:52:09.623 1beda0 Level-0 table #5: 16620 bytes OK
+2026/03/23-11:52:09.624 1beda0 Delete type=0 #3
+2026/03/23-12:13:09.578 1beda0 Level-0 table #7: started
+2026/03/23-12:13:09.581 1beda0 Level-0 table #7: 18139 bytes OK
+2026/03/23-12:13:09.583 1beda0 Delete type=0 #4
+2026/03/23-12:41:09.516 1beda0 Level-0 table #9: started
+2026/03/23-12:41:09.517 1beda0 Level-0 table #9: 20295 bytes OK
+2026/03/23-12:41:09.518 1beda0 Delete type=0 #6
+2026/03/23-13:04:09.487 1beda0 Level-0 table #11: started
+2026/03/23-13:04:09.489 1beda0 Level-0 table #11: 19105 bytes OK
+2026/03/23-13:04:09.490 1beda0 Delete type=0 #8
+2026/03/23-13:27:14.857 1beda0 Level-0 table #13: started
+2026/03/23-13:27:14.859 1beda0 Level-0 table #13: 18957 bytes OK
+2026/03/23-13:27:14.860 1beda0 Delete type=0 #10
+2026/03/23-13:47:09.204 1beda0 Level-0 table #15: started
+2026/03/23-13:47:09.206 1beda0 Level-0 table #15: 19072 bytes OK
+2026/03/23-13:47:09.208 1beda0 Delete type=0 #12
+2026/03/23-13:47:09.209 1beda0 Compacting 4@0 + 1@1 files
+2026/03/23-13:47:09.212 1beda0 Generated table #16@0: 6 keys, 2869 bytes
+2026/03/23-13:47:09.212 1beda0 Compacted 4@0 + 1@1 files => 2869 bytes
+2026/03/23-13:47:09.212 1beda0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/23-13:47:09.213 1beda0 Delete type=2 #7
+2026/03/23-13:47:09.213 1beda0 Delete type=2 #9
+2026/03/23-13:47:09.213 1beda0 Delete type=2 #11
+2026/03/23-13:47:09.213 1beda0 Delete type=2 #13
+2026/03/23-13:47:09.213 1beda0 Delete type=2 #15
+2026/03/23-14:05:26.800 1beda0 Level-0 table #18: started
+2026/03/23-14:05:26.802 1beda0 Level-0 table #18: 17779 bytes OK
+2026/03/23-14:05:26.803 1beda0 Delete type=0 #14
