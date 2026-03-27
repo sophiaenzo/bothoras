@@ -34,5 +34,5 @@ node index.js
 
 git add .
 git commit -m "feat: arquvo readme"
-
+git push
 
